@@ -13,7 +13,7 @@ Specs for pig latin generator:
 
 For words beginning with a vowel, add "ay" to the end.
 Input Example:"a"
-Output Example: "aay"
+Output Example: "aay" :)
 
 For words beginning with one or more consonants, move all of the first
 consecutive consonants to the end, and add "ay".
